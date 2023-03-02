@@ -1,4 +1,5 @@
 # Домашнее задание к занятию «Redux Toolkit»
+# [Ознакомиться с проектом](https://answer-0885.github.io/React_redux-toolkit_11_thunk/)
 ===
 ### Задание 1
 ### Цель задания 
