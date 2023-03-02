@@ -46,4 +46,4 @@
 5. Должна быть реализована настройка хранилища.
 6. Нет ошибок ESLint.
 
-https://img.shields.io/appveyor/build/answer-0885.github.io/React_redux-toolkit_11_thunk
+![build](https://img.shields.io/appveyor/build/answer-0885.github.io/React_redux-toolkit_11_thunk)
